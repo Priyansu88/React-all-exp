@@ -7,3 +7,9 @@ Practice 1
 
 <img width="523" height="344" alt="react practice 1" src="https://github.com/user-attachments/assets/ab65ecae-c0b8-41c7-a7f8-7ddaa32e6bdc" />
 
+
+
+Practice 2
+
+
+<img width="520" height="573" alt="Experiment 2" src="https://github.com/user-attachments/assets/4e221452-bf82-42a8-9147-2bf32aaa2cea" />
